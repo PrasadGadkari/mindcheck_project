@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Environment variables
+.env
+.env.local
+
+# Build/cache
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
